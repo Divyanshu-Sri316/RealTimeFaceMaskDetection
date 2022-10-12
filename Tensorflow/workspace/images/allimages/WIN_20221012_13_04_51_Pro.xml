@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>WIN_20221012_13_04_51_Pro.jpg</filename>
+	<path>D:\Anaconda Projects\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\WIN_20221012_13_04_51_Pro.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>476</xmin>
+			<ymin>362</ymin>
+			<xmax>854</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>
